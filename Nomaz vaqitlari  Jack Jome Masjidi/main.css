@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: calibri;
+}
+.navbar{
+    color: #fff;
+    background-color: #006aa7;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    z-index: 99;
+}
+
+.navbar_center ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.navbar_center ul li{
+    list-style: none;
+    cursor: pointer;
+    border: 1px solid #fff;
+    padding: 4px 10px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+.navbar_center li a{
+    color: #fff;
+    text-decoration: none;
+}
+.navbar_right{
+    display: flex;
+}
+
+.date_country{
+    padding: 5px 35px 5px 10px;
+    border-radius: 10px;
+    border: 4px solid #006aa7;
+}
+
+.date_country:focus{
+    outline: none;
+}
+.navbar_right .btnCount{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:  #0e93df;
+    color: #fff;
+    border: none;
+    height: 40px;
+}
+.header{
+    background-image: url('https://islom.uz/img/header_peshin.jpg');
+    width: 100%;
+    height: 300px;
+    color: #fff;
+}
+
+.time_nomoz{
+    width: 400px;
+    margin-left: 2%;
+}
+.header_left{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.time_upper{
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.firth_div{
+    width: 82px;
+    height: 75px;
+    text-align: center;
+    border: 2px solid #40e88c;
+    color: #02823B;
+    border-radius: 50%;
+}
+.words{
+    padding: 5px;
+}
+.firth_div h4, h6{
+    font-weight: 600;
+}
+
+.header_right{
+    display: flex;
+    justify-content: center;
+}
+.img_header{
+    position: relative;
+    right: 30px;
+    bottom: 35px;
+    z-index: 1;
+}
+.right_heder_inside1{
+    width: 420px;
+    height: 200px;
+    background-color: #006aa7c6;
+    text-align: center;
+    border-radius: 7px;
+    padding: 5px 5px;
+}
+footer{
+    background-color: #006aa7;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer a:hover{
+    color: #fff;
+}
+
+.icon_top{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 30px;
+    
+}
+.icon_top i{
+    background-color: #02823B;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#nav{
+    background-color: #02823B;
+}
+
+.navbar_left img{
+    width: 95px; 
+    height: 80px;
+    border-radius: 50%;
+}
+.navbar_left p{
+    font-size: 20px;
+}
+.icon_bars{
+   border: 1px solid red;
+   color: #fff;
+}
+.icon_bar{
+    font-size: 20px;
+    background-color: #006aa7c6;
+    border: 1px solid #006aa7c6;
+    padding: 5px;
+}
+.icon_bar:focus{
+    outline: none;
+}
+.icon_bar{
+    display: none;
+}
+

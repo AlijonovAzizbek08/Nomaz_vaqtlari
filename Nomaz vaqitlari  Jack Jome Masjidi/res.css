@@ -1,0 +1,224 @@
+@media screen and (max-width: 1399px) {
+    .navbar_center ul{
+        font-size: 13px;
+    }
+    .right_heder_inside1{
+        width: 320px;
+    }
+    .right_heder_inside1 p,h5{
+        font-size: 15px;
+    }
+    .img_header{
+        width: 70px;
+    }
+    .navbar_right input, button{
+        font-size: 13px;
+    }
+    .time_upper{
+        margin-right: 10px;
+    }
+    .imgNomoz{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1299px) {
+    .navbar_center ul{
+        font-size: 13px;
+    }
+    .right_heder_inside1{
+        width: 320px;
+    }
+    .right_heder_inside1 p,h5{
+        font-size: 15px;
+    }
+    .img_header{
+        width: 70px;
+    }
+    .navbar_right input, button{
+        font-size: 13px;
+    }
+    .time_upper{
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width: 1281px) {
+    .time_upper{
+        margin-right: 10px;
+    }
+    .firth_div{
+        width: 77px;
+        height: 75px;
+    }
+}
+@media screen and (max-width: 1281px) {
+    .time_upper{
+        margin-right: 10px;
+    }
+    .firth_div{
+        width: 73px;
+        height: 70px;
+    }
+}
+@media screen and (max-width: 1255px) {
+    .header_right{
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width: 1221px) {
+    .navbar_center ul{
+        font-size: 13px;
+    }
+    .right_heder_inside1{
+        width: 320px;
+        margin-left: 15%;
+    }
+    .right_heder_inside1 p,h5{
+        font-size: 15px;
+    }
+    .img_header{
+        width: 70px;
+    }
+    .navbar_right input, button{
+        font-size: 13px;
+    }
+    .time_upper{
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width: 1110px) {
+    .navbar_right input, button{
+        font-size: 10px;
+    }
+    .time_upper{
+        margin-right: 10px;
+    }
+    .firth_div{
+        width: 60px;
+        height: 55px;
+    }
+    .words h4{
+        font-size: 15px;
+    }
+    .words h6{
+        position: relative;
+        bottom: 5px;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1065px) {
+    .time_upper{
+        margin-right: 10px;
+    }
+
+    .firth_div{
+        width: 60px;
+        height: 55px;
+    }
+    .words h4{
+        font-size: 15px;
+    }
+    .words h6{
+        position: relative;
+        bottom: 5px;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .navbar_right input, button{
+        font-size: 9px;
+    }
+
+    .firth_div{
+        width: 55px;
+        height: 48px;
+    }
+    .words h4{
+        font-size: 15px;
+    }
+    .words h6{
+        position: relative;
+        bottom: 5px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .navbar_left h1{
+        font-size: 32px;
+    }
+    .header_right{
+        width: 410px;
+        margin-left: 10px;
+    }
+    .icon_bar{
+        display: block;
+    }
+    .navbar_left{
+        margin-bottom: 10px;
+    }
+    .navbar_center li{
+        margin-bottom: 10px;
+    }
+}
+@media screen and (min-width: 820px) {
+    .header_left{
+        margin-left: 4%;
+    }
+    
+}
+@media screen and (max-width: 769px) {
+    .firth_div{
+        width: 49px;
+        height: 46px;
+    }
+    .time_upper{
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    .words h4{
+        font-size: 15px;
+    }
+    .words h6{
+        position: relative;
+        bottom: 5px;
+        font-size: 12px;
+    }
+    .header_right{
+        margin-left: 10px;
+    }
+    .right_heder_inside1 h5{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 575px) {
+    .navbar_left img{
+        width: 95px; 
+        height: 80px;
+    }
+}
+@media screen and (max-width: 451px) {
+    .time_nomoz h4{
+        margin-left: 0%;
+    }
+    .navbar_left img{
+        width: 85px; 
+        height: 70px;
+    }
+}
+@media screen and (max-width: 395px) {
+    .time_nomoz h4{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .header_right{
+        width: 98%;
+    }
+}
+@media screen and (max-width: 375px) {
+    .time_nomoz h4{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .header_right{
+        width: 98%;
+    }
+}
